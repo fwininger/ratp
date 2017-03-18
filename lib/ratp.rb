@@ -1,6 +1,7 @@
 require 'ratp/version'
+require 'ratp/base'
+require 'ratp/request'
 
 # Gem RATP
 module Ratp
-  # Your code goes here...
 end
