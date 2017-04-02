@@ -1,4 +1,5 @@
 require 'ratp/version'
+require 'ratp/lines_reference'
 
 # Gem RATP
 module Ratp
