@@ -1,3 +1,5 @@
+# This project is paused because RATP does not provide the necessary API keys to use its open data.
+
 # Ratp OpenData
 
 A Ruby Client to consume [RATP Opendata](https://data.ratp.fr/).
